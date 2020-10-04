@@ -1,7 +1,7 @@
 # auto-naval-letter-formatter
 
 # Why is the application even necessary?
-`We were a haggard platoon of Marines, having just returned from the field just a few hours earlier. The group had been waiting since late morning for the Company Commander’s infamous safety brief, having already checked to make sure all Marines and equipment were accounted for. My Marines stopped pretending to clean the radio equipment to head to formation as the Company staff triumphantly walked from their offices up to the formation hill.
+We were a haggard platoon of Marines, having just returned from the field just a few hours earlier. The group had been waiting since late morning for the Company Commander’s infamous safety brief, having already checked to make sure all Marines and equipment were accounted for. My Marines stopped pretending to clean the radio equipment to head to formation as the Company staff triumphantly walked from their offices up to the formation hill.
 
 “Company, atten-tiiioon!” the Company First Sergeant yelled, signaling the start of the forced script. 20 minutes later, I snapped back to the formation. The company commander had just told a joke and was rewarded with the appropriate amount of forced laughter from the hostage audience. More comments about safety, ooh-rahs, sex, and alcohol. 
 
@@ -19,7 +19,7 @@ He held up the stack of request forms I had sent to him 2 weeks earlier before w
 
 “I imagine you’ll say you edited the digital copy and forwarded it to the Battalion Commander while we were out at Training Area 5, sir?”
 
-“Nice try, smartass,” he ripped back, “you need to know how important it is as an officer to be perfect in your naval letter formatting. It’s my job as the company commander to ensure that you lieutenants understand this. No mistakes. Now I’m on leave next week, and I would normally let the XO sign this, but I think I need to see your comments back afterwards in the inbox. Oh, and he said he had some corrections too. Dismissed.”`
+“Nice try, smartass,” he ripped back, “you need to know how important it is as an officer to be perfect in your naval letter formatting. It’s my job as the company commander to ensure that you lieutenants understand this. No mistakes. Now I’m on leave next week, and I would normally let the XO sign this, but I think I need to see your comments back afterwards in the inbox. Oh, and he said he had some corrections too. Dismissed.”
 
 # Writing in red pen does not make you a leader
 
