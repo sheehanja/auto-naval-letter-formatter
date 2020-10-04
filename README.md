@@ -5,7 +5,7 @@ We were a haggard platoon of Marines, having just returned from the field just a
 
 “Company, atten-tiiioon!” the Company First Sergeant yelled, signaling the start of the forced script. 20 minutes later, I snapped back to the formation. The company commander had just told a joke and was rewarded with the appropriate amount of forced laughter from the hostage audience. More comments about safety, ooh-rahs, sex, and alcohol. 
 
-“We must get out of the habit of a zero-defect mentality” the company commander bellowed towards his group of gathered Marines, who were discreetly looking at their watches. He called the first sergeant up to the front and walked over to me. The Marines hastily shuffled away while avoiding eye contact with anyone. 
+“We must get out of the habit of a zero-defect mentality” the company commander bellowed towards his group of gathered Marines, who were discreetly looking at their watches. He called the first sergeant up to the front who promptly caveated and piggy-backed a few comments before dismissing the group. The company commander walked over to me while the Marines hastily shuffled away while deliberately avoiding eye contact with anyone. 
 
 “Lieutenant, can I speak with you?” he asked while throwing in an ample amount of Copenhagen into his bottom lip. 
 
