@@ -30,8 +30,16 @@ As a Marine Officer, I was constantly sending up written orders, memorandums, an
 2. MCO 5215.1K Marine Corps Directives Management Program (10 May 2007)
 
 # Which order takes precendence, anyways?
+Naval correspondence manual takes priority. MCO 5215.1K cites SECNAV MANUAL 5216.5 as a reference, therefore it must be a downstream order and must follow its guidance.
 
 # Font Choice. Courier New or Times New Roman?
+20. Typeface. For text, use 10 to 12 point font size. Times New Roman 12-point is the preferred font style and size for official correspondence, but Courier New may be used for
+informal correspondence. Bold, underline, script, and italics may be used for occasional emphasis, but not for entire letters. (Page 2-13)
+
+# Are MCOs formal or informal correspondence?
+Page 4-2 of the Naval Correspondence Manual states for informal correspondence: "There are no specific guidelines for informal correspondence; however, keep it brief, use good taste, and observe traditional customs and courtesies. Do not use a complete signature line to identify the sender, but the sender must be fully identified. You may omit the signature line entirely if your computer automatically identifies the sender."
+
+Therefore, given that informal correspondence does not use signature lines, Marine Corps Orders MUST be formal correspondence.
 
 # Monospace vs Variable Width Fonts.
 
