@@ -26,11 +26,13 @@ He held up the stack of request forms I had sent to him 2 weeks earlier before w
 As a Marine Officer, I was constantly sending up written orders, memorandums, and other documentation that required signatures from the company commander, battalion commander. Often times I was met with the dreaded red pen. This red pen often made corrections that were not substantive in nature.
 
 # Relevant Orders
-1. SECNAV MANUAL 5216.5 CHANGE TRANSMITTAL 1 (16 May 2018)
-2. MCO 5215.1K Marine Corps Directives Management Program (10 May 2007)
+1. <a href="https://www.marines.mil/News/Publications/MCPEL/Electronic-Library-Display/Article/1845362/secnav-m-52165-wch1/">SECNAV M-5216.5 (Naval Correspondence Manual) dtd 16 May 2018</a>
+2. <a href="https://www.marines.mil/Portals/1/MCO%205216.20A.PDF">MCO 5216.20A MC Supplement to the DON Correspondence Manual dtd 15 Aug 13</a>
+3. <a href="https://www.marines.mil/News/Publications/MCPEL/Electronic-Library-Display/Article/899109/mco-52151k/">MCO 5215.1K MC Directives Management Program dtd 10 May 07</a>
+4. <a href="https://www.marines.mil/News/Publications/MCPEL/Electronic-Library-Display/Article/900290/secnav-m-52102-2018/">DON Standard Subject Identification Code (SSIC) Manual dtd 29 Aug 18</a>
 
 # Which order takes precendence, anyways?
-Naval correspondence manual takes priority. MCO 5215.1K cites SECNAV MANUAL 5216.5 as a reference, therefore it must be a downstream order and must follow its guidance.
+SECNAV M-5216.5, Naval Correspondence Manual takes priority. MCO 5215.1K cites SECNAV MANUAL 5216.5 as a reference, therefore it is a downstream order and must follow its guidance.
 
 # Font Choice. Courier New or Times New Roman?
 20. Typeface. For text, use 10 to 12 point font size. Times New Roman 12-point is the preferred font style and size for official correspondence, but Courier New may be used for
